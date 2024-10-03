@@ -43,7 +43,7 @@
             bindings = <
 &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5                              &kp F6          &kp F7          &kp F8        &kp F9           &kp F10    &kp F11
 &trans  &trans  &trans  &trans  &trans  &trans                              &trans          &trans          &kp INS       &trans           &kp PSCRN  &kp F12
-&trans  &trans  &trans  &trans  &trans  &trans                              &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &to 4                               &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans     &trans
 &trans  &trans  &trans  &trans  &to 3   &to 2   &to 1    &kp K_APPLICATION  &kp HOME        &kp PAGE_DOWN   &kp PG_UP     &kp END          &trans     &trans
                         &trans  &trans  &trans  &to 0    &trans             &trans          &trans          &trans
             >;
