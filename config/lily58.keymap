@@ -78,5 +78,17 @@
                                   &trans  &trans  &kp SPACE  &trans    &trans  &trans  &trans  &trans
             >;
         };
+
+        extra_1 {
+            status = "reserved";
+        };
+
+        extra_2 {
+            status = "reserved";
+        };
+
+        extra_3 {
+            status = "reserved";
+        };
     };
 };
